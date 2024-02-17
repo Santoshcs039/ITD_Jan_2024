@@ -9,4 +9,5 @@ pwd
 echo
 echo "listing all files and folders with timestamp"
 ls -lrt
-echo
+echo "####### to check build triggers from POLL SCM#####"
+
